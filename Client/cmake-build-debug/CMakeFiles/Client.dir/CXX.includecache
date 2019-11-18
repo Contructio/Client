@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Contruction/CLionProjects/Client/interface.cpp
+SFML/Graphics.hpp
+-
+SFML/Window.hpp
+-
+
+C:/Users/Contruction/CLionProjects/Client/main.cpp
+iostream
+-
+winsock2.h
+-
+string
+-
+exception
+-
+interface.cpp
+C:/Users/Contruction/CLionProjects/Client/interface.cpp
+
